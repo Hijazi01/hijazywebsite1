@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "ecmel.vscode-html-css",
+        "abusaidm.html-snippets",
+        "esbenp.prettier-vscode",
+        "ritwickdey.liveserver",
+        "chrisdias.vscode-opennewinstance",
+        "nextbook.file-and-folder-icons",
+        "pkief.material-icon-theme",
+        "ritwickdey.live-sass"
+    ]
+}
