@@ -1,2 +1,2 @@
 # hijazi website
-this is my web site 
+this is my website 
